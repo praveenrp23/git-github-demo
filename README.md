@@ -1,2 +1,3 @@
 # git-github-demo
-this repository is for demonstrating lab
+
+I am editing the README file. Adding some more details about the project description.
